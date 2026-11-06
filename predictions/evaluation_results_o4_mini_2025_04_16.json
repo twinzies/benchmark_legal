@@ -1,0 +1,17 @@
+{
+    "metrics": {
+        "num_cases_evaluated": 126,
+        "num_unique_labels": 327,
+        "subset_accuracy": 0.09523809523809523,
+        "micro_precision": 0.2702702702702703,
+        "micro_recall": 0.45307443365695793,
+        "micro_f1": 0.3385731559854897,
+        "macro_precision": 0.17462715008586566,
+        "macro_recall": 0.21587279523059338,
+        "macro_f1": 0.18301823507577744,
+        "weighted_f1": 0.3862637436151499,
+        "hamming_loss": 0.01327605456045823,
+        "samples_jaccard": 0.2935775488646638
+    },
+    "missing_predictions": []
+}
